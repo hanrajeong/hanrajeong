@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Hanra Jeong
 
 - 🌱 I’m currently working as the Software Engineer(Framework) in KB Kookmin Card
-- 
+  
 - 😄 I was...
   - Work as the AI Engineer in Simon Fraser University. (Jun, 2022 - Dec, 2022)
   - Studied Computer Science in Simon Fraser University in Vancouver, Canada. (Sep, 2021 - Dec, 2022)
